@@ -5,7 +5,7 @@ Dies ist eine kleine aber feine Chat-App, die Encryption und anderes nutzt, um e
 ## Wie nutze ich diese App?
 
 ### SERVER:
-Um diese Chat-App nutzen zu können, braucht man einen kleinen Server/Hoster, der den Server in diesem Fall spielt! Auf diesem Server muss Python installiert sein, nun kannst du dir dieses Repo per 'git clone https://github.com/StandartCoder/DarkChat' kopieren oder downloaden per Website! Wenn du das jetzt getan hast, kannst du ganz einfach die 'server.py' starten und deinen gewünschten Port eingeben!
+Um diese Chat-App nutzen zu können, braucht man einen kleinen Server/Hoster, der den Server in diesem Fall spielt! Auf diesem Server muss Python installiert sein, nun kannst du dir dieses Repo per `git clone https://github.com/StandartCoder/DarkChat` kopieren oder downloaden per Website! Wenn du das jetzt getan hast, kannst du ganz einfach die per `python3 server.py` starten und deinen gewünschten Port eingeben!
 
 ### CLIENT:
 Um dich nun mit dem Server verbinden zu können, musst du auch den Client installiert haben, dazu braucht du auch wieder Python installiert haben auf deinem lokalen Computer, es sei du nutzt die bereits kompiliert, Version unter dem [Release](https://github.com/StandartCoder/DarkChat/releases) Pfad! Jetzt öffnest du sie nur noch und es kommt ein kleines Befehlsfenster, wo du die IPv4-Adresse und den Port des Servers angibst!
