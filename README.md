@@ -19,3 +19,5 @@ Autoren und Kontaktinfos
 ## Lizenz
 
 Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe die LICENSE.md-Datei für Details.
+
+
